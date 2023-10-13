@@ -29,7 +29,7 @@ const loader = new THREE.ObjectLoader();
 
 loader.load(
 	// resource URL
-	"main/blackdemon.obj",
+	"blackdemon.obj",
 
 	// onLoad callback
 	// Here the loaded data is assumed to be an object
